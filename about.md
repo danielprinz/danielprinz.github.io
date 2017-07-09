@@ -17,7 +17,7 @@ Together with two other teams we are developing a customer relationship manageme
 <br/>
 
 <div class="col three caption">
-	If you want to get in touch with me, Use one of these:
+	If you want to get in touch with me, you can use:
 </div>
 <span class="contacticon center">
 	<a href="mailto:daniel.prinz@outlook.com"><i class="fa fa-envelope-square"></i></a>
