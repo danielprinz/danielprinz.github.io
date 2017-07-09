@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+<!--<img class="col one right" src="/img/prof_pic.jpg">-->
+<br/>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello, my name is Daniel Prinz and I am a web developer from Vienna, Austria.
+Currently I'm employed at Objectbay. I am part of a self organizing scrum team.
+Together with two other teams we are developing a customer relationship management software for a big company in Austria.
+
+<br/>
+<hr/>
+<br/>
+
+<div class="col three caption">
+	If you want to get in touch with me, Use one of these:
+</div>
+<span class="contacticon center">
+	<a href="mailto:daniel.prinz@outlook.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/danielprinz" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/daniel-prinz-642527142/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+    <a href="https://twitter.com/danielprinzAT" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
