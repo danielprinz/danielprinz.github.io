@@ -170,6 +170,10 @@ font-size: 42px;
 line-height: 1em;
 }
 
+.about-text{
+    text-align: justify;
+}
+
 /** Poem formatting ********************************************/
 .poem-title {
 font-size: 24px;
@@ -255,6 +259,9 @@ float: left;
 object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
+}
+.col-width-175{
+    width: 175px;
 }
 .right{
 float: right;
