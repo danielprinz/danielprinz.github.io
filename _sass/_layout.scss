@@ -140,6 +140,7 @@
   }
 }
 .post-content {
+  text-align: justify;
   h2 {
     font-size: 42px;
     @include media-query($on-laptop) {
@@ -172,7 +173,11 @@
 
 .about-text {
   text-align: justify;
-  width: 75%;
+  width: 85%;
+}
+
+img.profile-pic {
+  width: 150px;
 }
 
 .col {
@@ -183,9 +188,7 @@
   box-sizing: border-box;
   padding: $img_spacing;
 }
-.col-width-175 {
-  width: 175px;
-}
+
 .right {
   float: right;
 }
