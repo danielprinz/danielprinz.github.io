@@ -1,7 +1,7 @@
 ---
+title: The key values of the agile manifesto
 layout: post
-title: The agile manifesto
-date:   2017-07-15 11:00:00 +0200
+date: '2017-07-15 11:00:00 +0200'
 categories: agile
 ---
 

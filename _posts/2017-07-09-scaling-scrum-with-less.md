@@ -1,7 +1,7 @@
 ---
+title: Scaling Scrum with LeSS
 layout: post
-title: Scaling Scrum
-date:   2017-07-09 19:30:00 +0200
+date: '2017-07-09 19:30:00 +0200'
 categories: scrum
 ---
 
