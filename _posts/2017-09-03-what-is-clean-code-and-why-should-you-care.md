@@ -1,5 +1,5 @@
 ---
-title: What is clean code and why you should care?
+title: What is clean code and why should you care?
 ---
 
 Right after school I began to work on my first software project. I implemented feature after feature and was happy that it worked. Now my coding is way different than at the beginning. Buy why should you write clean code, when the software is working without it?
