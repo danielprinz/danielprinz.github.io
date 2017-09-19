@@ -28,5 +28,4 @@ displayHeaderLink: true
 	<a href="https://github.com/danielprinz" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/daniel-prinz-642527142" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://www.xing.com/profile/Daniel_Prinz19" target="_blank"><i class="fa fa-xing-square"></i></a>
-    <a href="https://twitter.com/danielprinzAT" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
