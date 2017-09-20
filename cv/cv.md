@@ -32,11 +32,11 @@ For me it is important to create working software in an agile way, so the user r
 
 ## Experience
 * 05 / 2015 - Present **Full Stack Web Developer at Objectbay**
-	* Working in a self organizing scrum team
-	* Creating a CRM (Customer relationship management) web application
+	* Working in a self-organizing scrum team
+	* Creating a CRM (Customer Relationship Management) web application
 	* Developing Methods: Test Driven Development, Continuous Integration, Scrum (LeSS)
 * 05 / 2011 - 05 / 2015 **Java Software Developer at CADS GmbH**
-	* Working in a small team of three persons, full responsibility during development
+	* Working in a small team of three people, full responsibility during development
 	* Engineering Process Sampler - bi-directional interface between Creo View and Creo Parametric
 	* Java FX, C++, Creo View, Creo Parametric, Chat client with Apache Mina
 
