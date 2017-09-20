@@ -53,7 +53,7 @@ English, German
 ## Outside of work
 * reading books for education
 * sport to keep me fit
-* writing about software development at my blog
+* writing about software development on my blog
 
 ## Contact
 daniel.prinz@outlook.com

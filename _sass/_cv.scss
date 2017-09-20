@@ -1,11 +1,13 @@
 .cv-title{
     margin-bottom: 20px;
-    text-align: center;
 }
 
 .cv-description{
     font-size: 16px;
     margin-bottom: 25px;
+}
+
+.cv-title, .cv-description{
     text-align: center;
 }
 
@@ -19,5 +21,40 @@
     }
     h2 {
         margin-bottom: 15px;
+    }
+
+    h2:before{
+        font-family: FontAwesome;
+        margin-right: 15px;
+    }
+
+    $fa-profile: "\f2be";
+    $fa-skills: "\f109";
+    $fa-briefcase: "\f0b1";
+    $fa-education: "\f19d";
+    $fa-languages: "\f0ac";
+    $fa-leisure: "\f01d";
+    $fa-contact: "\f003";
+
+    h2:first-child:before {
+        content: $fa-profile;
+    }
+    h2:nth-of-type(n+2):nth-of-type(-n+4):before {
+        content: $fa-skills;        
+    }
+    h2:nth-of-type(5):before {
+        content: $fa-briefcase;        
+    }
+    h2:nth-of-type(6):before {
+        content: $fa-education;
+    }
+    h2:nth-of-type(7):before {
+        content: $fa-languages;        
+    }
+    h2:nth-of-type(8):before {
+        content: $fa-leisure;        
+    }
+    h2:last-of-type:before {
+        content: $fa-contact;        
     }
 }
