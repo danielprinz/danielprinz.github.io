@@ -57,3 +57,5 @@ English, German
 
 ## Contact
 daniel.prinz@outlook.com
+
+[Download as PDF]({{ site.url }}/cv/Daniel_Prinz_CV.pdf)
