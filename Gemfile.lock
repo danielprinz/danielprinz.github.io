@@ -222,6 +222,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  jekyll-gist
   tzinfo-data
   wdm (~> 0.1.0)
 

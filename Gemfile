@@ -4,6 +4,7 @@ ruby RUBY_VERSION
 # Plugins
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-gist', group: :jekyll_plugins
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
