@@ -15,7 +15,5 @@ exclude:
   - Gemfile.lock
 
 highlighter: rouge
-plugins:
-  - jekyll-gist
 gist:
   noscript: false
