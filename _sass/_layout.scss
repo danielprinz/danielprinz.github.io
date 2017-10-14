@@ -28,10 +28,14 @@
   line-height: $nav-height;
   .page-link {
     line-height: $base-line-height;
+    font-size: 18px;
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
       margin-left: 10px;
     }
+  }
+  .page-link.active {
+    border-bottom: 3px solid $theme-color;
   }
   @include media-query($on-palm) {
     position: fixed;
