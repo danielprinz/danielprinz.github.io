@@ -1,9 +1,30 @@
-.cv-title{
-    margin-bottom: 20px;
+$profile-pic-width: 150px;
+
+.cv-header{
+    display: grid;
+    grid-template-columns: 80% $profile-pic-width;
+
+    .cv-profile-pic{
+        width: $profile-pic-width;
+        grid-row-end: span 2;
+    }
+
+    .cv-title{
+        align-self: end;
+        margin-bottom: 15px;
+    }
+}
+
+
+@media screen and (max-width: 800px){
+    .cv-header{
+        grid-template-columns: 70% $profile-pic-width;
+    }
 }
 
 .cv-description{
     font-size: 16px;
+    margin-top: 0;
     margin-bottom: 25px;
 }
 
@@ -17,6 +38,7 @@
 
 .cv {
     h1 {
+        font-size: 36px;
         margin-bottom: 20px;
     }
     h2 {
