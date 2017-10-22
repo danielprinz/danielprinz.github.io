@@ -3,6 +3,7 @@ layout: page
 title: about
 permalink: /about/
 displayHeaderLink: true
+order: 2
 ---
 
 
