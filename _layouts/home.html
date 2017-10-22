@@ -3,19 +3,20 @@
 
   {% include head.html %}
 
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+        <div class="wrapper">
+            <div id="app"></div>
+            <script src="{{ site.baseurl }}/tiles/build.js"></script>
+        </div>
     </div>
 
-    <ul class="post-list">
-        {% for post in site.posts %}
-        <li>
-            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
+  </body>
 
-            <h2>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h2>
-        </li>
-        {% endfor %}
-    </ul>
-
-</div>
+</html>
