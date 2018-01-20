@@ -9,9 +9,9 @@ order: 2
 
 <br/>
 <div class="about-text">
-	Hello, my name is Daniel Prinz and I am a web developer from Vienna, Austria.
-	Currently I'm employed at Objectbay. I am part of a self organizing scrum team.
-	Together with two other teams we are developing a customer relationship management software for a big company in Austria.
+	Hello, my name is Daniel Prinz and I am a software engineer from Vienna, Austria.
+	Currently I'm employed at Bitpanda. I am part of a small self organizing development team
+	that is creating an internet facing platform that is event driven and non blocking.
 	<p>
 		<img class="col profile-pic right " alt="profile picture" width="400" src="/img/profile_pic.png"><br/>
 		In my blog I am writing about the fundamentals of software engineering, as well as specific frameworks I am currently using or learning.

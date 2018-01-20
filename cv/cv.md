@@ -31,11 +31,14 @@ For me it is important to create working software in an agile way, so the user r
 * Linux
 
 ## Experience
-* 05 / 2015 - Present **Full Stack Web Developer at Objectbay**
+* 12 / 2017 - Present **Software Engineer at Bitpanda**
+	* Working in a small self-organizing team
+	* Creating an internet facing platform that is event driven and non blocking
+* 05 / 2015 - 11 / 2017 **Full Stack Software Engineer at Objectbay**
 	* Working in a self-organizing scrum team
 	* Creating a CRM (Customer Relationship Management) web application
 	* Developing Methods: Test Driven Development, Continuous Integration, Scrum (LeSS)
-* 05 / 2011 - 05 / 2015 **Java Software Developer at CADS GmbH**
+* 05 / 2011 - 05 / 2015 **Java Software Engineer at CADS GmbH**
 	* Working in a small team of three people, full responsibility during development
 	* Engineering Process Sampler - bi-directional interface between Creo View and Creo Parametric
 	* Java FX, C++, Creo View, Creo Parametric, Chat client with Apache Mina
@@ -57,4 +60,7 @@ English, German
 ## Contact
 daniel.prinz@outlook.com
 
-[Download as PDF]({{ site.url }}/cv/Daniel_Prinz_CV.pdf)
+©
+
+[//]: <> (Download is disabled because PDF is outdated!)
+[//]: <> ([Download as PDF]({{ site.url }}/cv/Daniel_Prinz_CV.pdf))
