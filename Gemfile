@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 # Plugins
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages"
 gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-gist', group: :jekyll_plugins
 
