@@ -1,6 +1,7 @@
 ---
 title: Continous Integration with Gitlab and Gitlab CI
-gitlab: gitlab, gitlab-ci, gitlab-runner, gitlab-tags
+layout: post
+categories: tools
 ---
 
 For **fast and high quality development of software** a continous integration workflow is essential. It is import to get early feedback if the integration with other components works.
@@ -29,11 +30,11 @@ There a many official templates available here: [Gitlab-CI-Templates](https://gi
 Every job in the pipeline is running on a Gitlab-Runner. There are different kinds of Gitlab-Runners.  
 * *Shared Runners*  are globally available for every project.  
 * *Dedicated Runners* are only processing jobs of a specific project.  
-  
+
 Adding and enabling *dedicated runners* for every project was very cumbersome and took some time. It is also not that clealy visible which runner is enabled for which project. A better way to manage the different Gitlab-Runners is through Gitlab-Tags.
 ### Gitlab Tags
 Gitlab tags are very handy for defining **which runner should process a specific build job.** So for example there are two different *shared runners*.  
-  
+
 One has maven installed and can build maven projects. The other has docker installed and can build docker images.  
 * first runner gets the tag **maven**  
 * second runner gets the tag **docker**  

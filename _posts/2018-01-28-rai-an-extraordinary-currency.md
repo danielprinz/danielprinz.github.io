@@ -1,5 +1,7 @@
 ---
 title: Rai - an extraordinary currency
+layout: post
+categories: random
 ---
 
 This post is not technical, but I came across this topic and find it very interessting. So I wanted to write a short post about it.

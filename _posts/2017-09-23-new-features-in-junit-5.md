@@ -1,5 +1,7 @@
 ---
 title: New features in JUnit 5
+layout: post
+categories: coding
 ---
 
 A new major version of JUnit was released on September 10, 2017. The codebase was upgraded, so Java 8 or higher is required at runtime and it consists of three submodules now.

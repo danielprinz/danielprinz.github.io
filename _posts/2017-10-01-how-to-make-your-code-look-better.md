@@ -1,5 +1,7 @@
 ---
 title: How to make your code look better
+layout: post
+categories: coding
 ---
 
 Do you hear your colleagues screaming WTF when you ask them to review your code?
@@ -7,7 +9,7 @@ Do you hear your colleagues screaming WTF when you ask them to review your code?
 ![wtfs](/img/2017-10-01-how-to-remove-code-smells/amout_of_wtfs.png){:width="350px"}
 
 I hope not.It should be every developers goal to make the code readable and easy to understand. I like using [SonarQube](https://www.sonarqube.org/) to make problems in the code visible. There are plugins for many IDEs to identify most of the bugs, code smells and vulnerabilities even before the code is checked in.  
-  
+
 # Here are some recommendations to make your code look better:
 ## Use the functional programming style
 One way to increase the readability of the code is using a functional programming style. Focus on the **what** and not so much on the **how.** In the following example the prime numbers between 1 and 100 are calculated. Which solutions is easier to understand?
