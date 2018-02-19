@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    backports (3.11.0)
+    backports (3.11.1)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -22,7 +22,7 @@ GEM
     execjs (2.7.0)
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18-x64-mingw32)
+    ffi (1.9.21-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (172)
@@ -211,7 +211,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rack (1.6.8)
-    rack-protection (1.5.3)
+    rack-protection (1.5.4)
       rack
     rack-test (0.8.2)
       rack (>= 1.0, < 3)
@@ -266,7 +266,7 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 RUBY VERSION
-   ruby 2.2.6p396
+   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1
