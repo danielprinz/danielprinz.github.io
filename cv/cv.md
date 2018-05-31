@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Daniel Prinz
-description: agile web developer
+description: software engineer
 permalink: /cv/
 displayHeaderLink: false
 ---
