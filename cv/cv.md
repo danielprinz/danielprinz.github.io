@@ -12,27 +12,28 @@ For me it is important to create working software in an agile way, so the user r
 
 ## General skills
 * Agile Development
-* Functional programming
-* Object oriented programming
-* RESTful web services
-* Test driven development
+* Functional / Reactive programming
+* Continuous integration and deployment
+* Dev Ops - Infrastructure as Code
+* Self organizing
+* Getting things done every day
 
 ## Coding languages
-* Java 8, Java EE 7
-* HTML, JavaScript, SaSS (CSS)
+* Java 8+
+* HashiCorp configuration language (HCL)
+* JavaScript
 
 ## Tools
-* Git
-* Jenkins (CI)
+* AWS
+* Docker
+* Apache Kafka
+* Git, Gitlab CI
 * JUnit, AssertJ, Mockito
-* Maven
-* Selenium
-* Wiremock
 * Linux
 
 ## Experience
 * 12 / 2017 - Present **Software Engineer at Bitpanda**
-	* Working in a small self-organizing team
+	* Working in a self-organizing team
 	* Creating an internet facing platform that is event driven and non blocking
 * 05 / 2015 - 11 / 2017 **Full Stack Software Engineer at Objectbay**
 	* Working in a self-organizing scrum team
