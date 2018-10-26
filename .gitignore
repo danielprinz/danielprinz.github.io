@@ -2,3 +2,4 @@ _site
 _post_ideas
 .sass-cache
 .jekyll-metadata
+vendor
