@@ -61,7 +61,4 @@ English, German
 ## Contact
 daniel.prinz@outlook.com
 
-©
-
-[//]: <> (Download is disabled because PDF is outdated!)
-[//]: <> ([Download as PDF]({{ site.url }}/cv/Daniel_Prinz_CV.pdf))
+[Download as PDF]({{ site.url }}/cv/Daniel_Prinz_CV.pdf)
