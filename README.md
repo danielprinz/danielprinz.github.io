@@ -1,4 +1,8 @@
-Personal Homepage with Blog
+## Personal Homepage with Blog
 
-### Update dependencies
-bundle update
+Link: https://jekyllrb.com/
+
+### Commands
+`bundle install`
+`bundle update`
+`bundle exec jekyll serve`

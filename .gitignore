@@ -3,3 +3,4 @@ _post_ideas
 .sass-cache
 .jekyll-metadata
 vendor
+.idea/*
